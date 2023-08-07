@@ -9,8 +9,8 @@ A Extremly basic version of the program that is hardcoded.
 
 V2.0 - Released But Incomplete
 It wasn't finished as some of the changes i wanted to make in future updates would not have been possible without a complete overhaul and hence this version was scrapped.
-It does have the following functions the first version didn't have.
- - A Installation/Configuration Menu (Please Note it was extremely early work and might not function as intended by me.)
+It does have the following functions the first version didn't have. but it's still hardcoded for the most part, only paths were changable via the config.
+ - A Installation/Configuration Menu (Please Note it was extremely early work and might not function as intended.)
 
 V3.0 - Unreleased - Incomplete
 This is the version i will be developing and the only one which i will support.
